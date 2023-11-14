@@ -4,11 +4,11 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Structures  (AlgoExpert)</b>
+  - [Algos in Python]
 - 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [ Application (Datastructures and Algorithms Demo)]
 
 <h2>📺 Popular YouTube Videos</h2>
 
