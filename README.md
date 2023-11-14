@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rufai Waheed! <br/><a href="https://github.com/RufaiWaheed/RufaiWaheed.git">Forex Tader</a>, <a href="https://www.linkedin.com/in/rufai-waheed-6b0259261/"> Cybersecurity Professional</a>, <a href="https://www.youtube.com/@rufaiwaheed">YouTuber</a></h1>
+<h1>Hi, I'm Rufai Waheed! <br/><a href="https://www.linkedin.com/in/rufai-waheed-6b0259261/">Forex Tader</a>, <a href="https://github.com/RufaiWaheed/RufaiWaheed.git">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@rufaiwaheed">YouTuber</a></h1>
 
 <h2>📑 Certifications</h2>
 
